@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MangoEditor", "MangoEditor\MangoEditor.csproj", "{18B8D268-A886-458C-8D72-5B3F8CD97FB9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MangoEngine", "MangoEngine\MangoEngine.vcxproj", "{47056B8B-5D05-4E05-8819-47686730D220}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18B8D268-A886-458C-8D72-5B3F8CD97FB9}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{18B8D268-A886-458C-8D72-5B3F8CD97FB9}.Debug|x64.Build.0 = Debug|Any CPU
+		{18B8D268-A886-458C-8D72-5B3F8CD97FB9}.Release|x64.ActiveCfg = Release|Any CPU
+		{18B8D268-A886-458C-8D72-5B3F8CD97FB9}.Release|x64.Build.0 = Release|Any CPU
+		{47056B8B-5D05-4E05-8819-47686730D220}.Debug|x64.ActiveCfg = Debug|x64
+		{47056B8B-5D05-4E05-8819-47686730D220}.Debug|x64.Build.0 = Debug|x64
+		{47056B8B-5D05-4E05-8819-47686730D220}.Release|x64.ActiveCfg = Release|x64
+		{47056B8B-5D05-4E05-8819-47686730D220}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB99E68B-C397-4FAF-AAE9-DA6567D44918}
+	EndGlobalSection
+EndGlobal
